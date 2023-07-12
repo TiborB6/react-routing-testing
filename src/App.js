@@ -1,9 +1,7 @@
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <h1>Our First Test</h1>
   );
 }
 
-export default App;
+ 
